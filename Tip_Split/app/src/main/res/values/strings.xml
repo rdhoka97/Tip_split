@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Tip_Split</string>
+    <string name="bill_total_with_tax">Bill Total with Tax:</string>
+    <string name="go">Go</string>
+    <string name="total_per_person">Total Per Person:</string>
+    <string name="number_of_people">Number of People:</string>
+    <string name="overage">Overage:</string>
+    <string name="tip_amount">Tip Amount:</string>
+    <string name="_20">20%</string>
+    <string name="_18">18%</string>
+    <string name="_15">15%</string>
+    <string name="_12">12%</string>
+    <string name="tip_percent">Tip Percent:</string>
+    <string name="total_with_tip">Total with Tip:</string>
+    <string name="clear">clear</string>
+    <string name="bill_total_with_tax1">Bill Total with Tax:</string>
+    <string name="tip_percent1">Tip Percent:</string>
+    <string name="_151">15%</string>
+    <string name="_201">20%</string>
+    <string name="total_with_tip1">Total with Tip:</string>
+    <string name="tip_amount1">Tip Amount:</string>
+    <string name="_181">18%</string>
+    <string name="_121">12%</string>
+    <string name="number_of_people1">Number of People:</string>
+    <string name="go1">Go</string>
+    <string name="total_per_person1">Total Per Person:</string>
+    <string name="clear1">clear</string>
+</resources>
